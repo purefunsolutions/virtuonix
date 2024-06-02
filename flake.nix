@@ -30,6 +30,7 @@
       ];
 
       imports = [
+        ./modules
         ./nix
         ./pkgs
       ];
